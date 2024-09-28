@@ -3,7 +3,7 @@ authors = ["Jason"]
 language = "zh-cn"
 multilingual = false
 src = "src"
-title = "智化空知识库-hao.aihg.top"
+title = "瞄顶顶-aim.aimtop.top"
 
 [preprocessor.mermaid]
 command = "mdbook-mermaid"
@@ -11,7 +11,7 @@ command = "mdbook-mermaid"
 [output.html]
 additional-js = ["assets/fzf.umd.js", "assets/elasticlunr.js", "assets/mermaid.min.js", "assets/mermaid-init.js"]
 input-404 = "404.md"
-site-url = "https://hao.aihg.top/chemtour/"
+site-url = "https://aim.aimtop.top/book/"
 
 [preprocessor.katex]
 after = ["links"]
